@@ -1,0 +1,74 @@
+{
+
+    "character": [{
+            "series": "Money Hiest",
+            "name": "Úrsula Corberó",
+            "character": "Tokyo",
+            "nature": "Outgoing",
+            "role": "Reckless and Impulsive ","dob":"2021-11-11"
+
+        },
+        {
+            "series": "Money Hiest",
+            "name": "Pedro Alonso",
+            "character": "Berlin",
+            "nature": "Clever",
+            "role": "Arrogant,Narcisstic and deemed to be a psychopath",
+"dob":"2021-11-11"
+
+
+
+        },
+        {
+
+            "series": "Money Hiest",
+            "name": "Maria Pedraza",
+            "character": "Alison Parker",
+            "nature": "Dumb",
+            "role": "Secondary role","dob":"2021-11-11"
+
+
+
+        }, {
+
+            "series": "Money Hiest",
+            "name": "Darko Peric",
+            "character": "Helsinki",
+            "nature": "Strong",
+            "role": "One of the robers and a good fighter.","dob":"2021-11-11"
+
+        },
+        {
+            "series": "Money Hiest",
+            "name": "Martin Berrote",
+            "character": "Rodrigo de la Serna",
+            "nature": "Mad",
+            "role": "Extrovert","dob":"2021-11-11"
+
+
+
+        },
+        {
+            "series": "Money Hiest",
+            "name": "Esther acebo",
+            "character": "Monica Gaztambide",
+            "nature": "Nice person",
+            "role": "love-focused","dob":"2021-11-11"
+
+
+
+
+        },
+        {
+
+
+            "series": "Money Hiest",
+            "name": "Paco Tous",
+            "character": "Moscow",
+            "nature": "Gentle soul",
+            "role": "Fatherly Figure","dob":"2021-11-11"
+
+
+        }
+    ]
+}
